@@ -17,7 +17,7 @@ def initialize_session_state():
 
 initialize_session_state()
 st.set_page_config(page_title="🤖 Chatbot", layout="centered")
-st.title("SRT - DX Chatbot 🤖")
+st.title("🤖 Chatbot 🤖")
 
 # Create footer container for the microphone
 footer_container = st.container()
